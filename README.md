@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my design projects are available at [https://www.francesm.com/](https://www.francesm.com/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about why you should care about accessibility
 
 - 📫 How to reach me **francesmarquez94@gmail.com**
   
